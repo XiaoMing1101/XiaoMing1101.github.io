@@ -1,0 +1,212 @@
+* {
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+
+a#contact {
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    font-family: "微软雅黑";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+img#contact {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 110px;
+    top: 30px;
+}
+
+div#location {
+    width: 268px;
+    height: 123px;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    background-color: #fcfcfc;
+    border: 1px solid #e5e5e5;
+}
+
+div#phone {
+    width: 268px;
+    height: 123px;
+    position: absolute;
+    left: 50px;
+    top: 250px;
+    background-color: #fcfcfc;
+    border: 1px solid #e5e5e5;
+}
+
+div#email {
+    width: 268px;
+    height: 123px;
+    position: absolute;
+    left: 50px;
+    top: 400px;
+    background-color: #fcfcfc;
+    border: 1px solid #e5e5e5;
+}
+
+p#location {
+    position: absolute;
+    left: 90px;
+    top: 80px;
+    text-align: center;
+    font-family: "微软雅黑";
+    letter-spacing: 1px;
+}
+
+p#phone {
+    position: absolute;
+    left: 75px;
+    top: 80px;
+    text-align: center;
+    font-family: "微软雅黑";
+    letter-spacing: 1px;
+}
+
+p#email {
+    position: absolute;
+    left: 20px;
+    top: 80px;
+    text-align: center;
+    font-family: "微软雅黑";
+    letter-spacing: 1px;
+}
+
+a#helpu {
+    position: absolute;
+    left: 460px;
+    top: 110px;
+    font-family: "微软雅黑";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a#helpu span {
+    color: #09aeea;
+}
+
+input#username {
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 360px;
+    top: 200px;
+    border: 2px solid #d5d6d7;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 16px;
+    text-indent: 10px;
+    font-family: "微软雅黑";
+}
+
+input#address {
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 360px;
+    top: 280px;
+    border: 2px solid #d5d6d7;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 16px;
+    text-indent: 10px;
+    font-family: "微软雅黑";
+}
+
+input#subject {
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 360px;
+    top: 360px;
+    border: 2px solid #d5d6d7;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 16px;
+    text-indent: 10px;
+    font-family: "微软雅黑";
+}
+
+input#sub {
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    left: 360px;
+    top: 450px;
+    border-radius: 20px;
+    border: 2px solid #09aeea;
+    background-color: #ffffff;
+    color: black;
+    font-family: "微软雅黑";
+    font-weight: bold;
+}
+
+input#sub:hover {
+    background-color: #09aeea;
+    color: #ffffff;
+}
+
+textarea#message {
+    width: 260px;
+    height: 190px;
+    position: absolute;
+    left: 590px;
+    top: 200px;
+    border-radius: 10px;
+    border: 2px solid #d5d6d7;
+    text-indent: 10px;
+    font-family: "微软雅黑";
+    font-size: 16px;
+    line-height: 35px;
+}
+p#Tip_name{
+    position: absolute;
+    left:370px;
+    top:242px;
+     background-color: red;
+    color:#ffffff;
+    padding: 3px;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    display: none;
+} 
+p#Tip_address{
+    position: absolute;
+    left:370px;
+    top:322px;
+     background-color: red;
+    color:#ffffff;
+    padding: 3px;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    display: none;
+}
+p#Tip_subject{
+    position: absolute;
+    left:370px;
+    top:402px;
+     background-color: red;
+    color:#ffffff;
+    padding: 3px;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    display: none;
+}
+p#Tip_message{
+    position: absolute;
+    left:600px;
+    top:402px;
+     background-color: red;
+    color:#ffffff;
+    padding: 3px;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    display: none;
+}

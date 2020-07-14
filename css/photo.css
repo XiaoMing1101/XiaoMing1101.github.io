@@ -1,0 +1,87 @@
+*{
+    line-height: 25px;
+   }
+a#Photo_album{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    font-family: "微软雅黑";
+    font-size: 28px;
+    font-weight: bold;
+}
+a#Photo_album span {
+    color: #09aeea;
+  }
+img#photo{
+    display: inline-block;
+    width:500px;
+    margin:120px 50px;
+    margin-bottom: 30px;
+}
+img#photo_1{
+    display: inline-block;
+    width:500px;
+    margin:30px 50px;
+}
+p#photoDescription_1{
+    display: inline-block;
+    width:300px;
+    position: absolute;
+    left:580px;
+    top:120px;
+    font-family: "微软雅黑";
+    color: #707070;
+    letter-spacing: 1px;
+}
+p#photoDescription_2{
+    display: inline-block;
+    width:300px;
+    position: absolute;
+    left:580px;
+    top:560px;
+    font-family: "微软雅黑";
+    color: #707070;
+    letter-spacing: 1px;
+}
+p#photoDescription_3{
+    display: inline-block;
+    width:300px;
+    position: absolute;
+    left:580px;
+    top:870px;
+    font-family: "微软雅黑";
+    color: #707070;
+    letter-spacing: 1px;
+}
+p#photoDescription_4{
+    display: inline-block;
+    width:300px;
+    position: absolute;
+    left:580px;
+    top:1150px;
+    font-family: "微软雅黑";
+    color: #707070;
+    letter-spacing: 1px;
+}
+p#photoDescription_5{
+    display: inline-block;
+    width:300px;
+    position: absolute;
+    left:580px;
+    top:1550px;
+    font-family: "微软雅黑";
+    color: #707070;
+    letter-spacing: 1px;
+}
+p#photoDescription_6{
+    display: inline-block;
+    width:300px;
+    position: absolute;
+    left:580px;
+    top:1870px;
+    font-family: "微软雅黑";
+    color: #707070;
+    letter-spacing: 1px;
+}
